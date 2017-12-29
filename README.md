@@ -1,3 +1,3 @@
 # mystuff
 
-Hello, this is my first project.
+Generic virtual env for data science
