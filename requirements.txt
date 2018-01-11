@@ -3,5 +3,6 @@ pandas
 sklearn
 requests
 matplotlib
-
+tensorflow
 jupyter
+theano
